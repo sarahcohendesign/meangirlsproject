@@ -1,0 +1,23 @@
+{
+  "name": "meangirlsipsum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahcohendesign/meangirlsipsum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahcohendesign/meangirlsipsum/issues"
+  },
+  "homepage": "https://github.com/sarahcohendesign/meangirlsipsum#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
