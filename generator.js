@@ -8,10 +8,10 @@ function GenerateNewText() {
   // Add property to the object
   this.sentences =
     [
-      "Awesome quote number 1.",
-      "Second awesome quote.",
-      "Yet another great quote.",
-      "Ok, last quote."
+      "Get in loser. We’re going shopping.",
+      "Ex-boyfriends are off-limits to friends. That’s just, like, the rules of feminism.",
+      "YRaise your hand if you have ever been personally victimized by Regina George.",
+      "That’s why her hair is so big. It’s full of secrets."
    ];
 }
 
